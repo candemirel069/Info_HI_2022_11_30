@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addres.ConsoleApp", "Addres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adres.WinApp", "Adres.WinApp\Adres.WinApp.csproj", "{4C37476D-3A65-4C9F-9730-037EECE050BF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlScripts", "SqlScripts", "{F3478AA6-B34E-4118-966B-E861F2708FAF}"
+	ProjectSection(SolutionItems) = preProject
+		OkulHIDB.sql = OkulHIDB.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
